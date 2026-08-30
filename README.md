@@ -1,95 +1,125 @@
 # Hi, I'm Rahul Kumar Yadav 👋
 
-### Java Backend Developer | Spring Boot | Python | IT Trainer
+### Java Backend Developer | Spring Boot | REST APIs | Python
 
-I’m a Computer Science graduate focused on building **Java backend applications and REST APIs** with Spring Boot, while continuously expanding my skills in **Python, SQL, and data/AI technologies**.
+I build backend applications and REST APIs with **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy turning real-world requirements into clean, maintainable backend systems.
 
-I also work as an **IT Trainer**, helping students learn programming and software development from fundamentals to practical projects.
-
----
-
-## 🚀 What I Work With
-
-**Backend & Programming**
-- Java
-- Spring Boot
-- Spring Data JPA / Hibernate
-- REST APIs
-- JDBC / Servlets / JSP
-- Python
-
-**Database & Tools**
-- MySQL
-- PostgreSQL
-- SQL
-- Git & GitHub
-- Postman
-- Apache Tomcat
-- Maven
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
+I also work as an **IT Trainer**, where I teach programming fundamentals, Java, Python, and practical software development.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 About Me
 
-### 🏍️ Bike Rent API
-Spring Boot REST API for bike rental management using **Java, Spring Boot, Spring Data JPA, MySQL and Maven**.
-
-### 📚 Library Management API
-Backend application for library management using **Java, Spring Boot, REST APIs, Spring Data JPA and MySQL**.
-
-### 💰 Expense Tracker
-Spring Boot backend application for managing expenses using **Java, Spring Boot, JPA and MySQL**.
-
-### 🎓 Learning Management System
-A larger application focused on learning-management workflows and backend development.
+- 💻 Focused on **Java Backend Development & Spring Boot**
+- 🔐 Building APIs with **Spring Security & JWT**
+- 🗄️ Working with **MySQL, PostgreSQL & SQL**
+- 🐍 Expanding into **Python, Data & AI/ML**
+- 🧩 Interested in **system design, clean architecture & problem solving**
+- 👨‍🏫 IT Trainer focused on practical, project-based learning
 
 ---
 
-## 🎯 Currently Learning
+## 🛠️ Tech Stack
 
-- Advanced Spring Boot
-- Spring Security
-- JWT & OAuth 2.0
-- Microservices
-- System Design
-- Python for Data & AI
-- Data Structures & Algorithms
+### Backend
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC` `Servlets` `JSP`
+
+### Database
+
+`MySQL` `PostgreSQL` `SQL`
+
+### Frontend
+
+`HTML` `CSS` `JavaScript` `React`
+
+### Tools
+
+`Git` `GitHub` `Maven` `Postman` `Apache Tomcat`
+
+### Learning
+
+`Python` `Data Analysis` `AI/ML` `System Design`
 
 ---
 
-## 👨‍🏫 As an IT Trainer
+## ⭐ Featured Projects
 
-I enjoy breaking complex programming concepts into simple, practical examples. My teaching focus includes:
+### 🎯 [Online Quiz System](https://github.com/rahulkryadav007/OnlineQuizSystem)
 
-- Java fundamentals & OOP
-- Python programming
-- Problem solving
-- Data Structures & Algorithms
-- Backend development fundamentals
+A secure Spring Boot REST API with **JWT authentication, Spring Security, role-based authorization, quiz sessions, automatic scoring, result history, DTOs, validation, and global exception handling**.
+
+**Java · Spring Boot · Spring Security · JWT · JPA · MySQL · REST API**
+
+### 🏍️ [Bike Rent API](https://github.com/rahulkryadav007/BikeRentApi)
+
+REST API for managing a bike rental service with CRUD operations, rental status tracking, layered architecture, and MySQL persistence.
+
+**Java · Spring Boot · JPA/Hibernate · MySQL · REST API**
+
+### 📚 [Library Management API](https://github.com/rahulkryadav007/Library-Management-API)
+
+Backend REST API for managing library resources using a structured Spring Boot architecture and relational database persistence.
+
+**Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
+
+### 💰 [Expense Tracker](https://github.com/rahulkryadav007/ExpenseTracker)
+
+Spring Boot REST API for managing daily expenses with CRUD operations and persistent MySQL storage.
+
+**Java · Spring Boot · JPA · MySQL · REST API**
+
+### 🎓 [Learning Management System](https://github.com/rahulkryadav007/Learning-Management-System)
+
+A larger Java application focused on learning-management workflows and practical backend development.
 
 ---
 
-## 📈 My Development Focus
+## 🔐 Backend Engineering Focus
 
 ```text
-Java / Spring Boot  ████████████████████  Backend
-REST APIs           ███████████████████░  Development
-SQL / MySQL         ██████████████████░░  Database
-Python              ████████████████░░░░  Learning
-AI / ML             ████████████░░░░░░░░  Growing
-System Design       ██████████░░░░░░░░░░  Growing
+REST API Design       ████████████████████
+Spring Boot            ████████████████████
+Spring Security / JWT  ██████████████████░░
+JPA / Hibernate        ██████████████████░░
+MySQL / SQL            ██████████████████░░
+Python                 ███████████████░░░░░
+AI / ML                ████████████░░░░░░░
+System Design          ███████████░░░░░░░░
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 👨‍🏫 IT Trainer
 
-I’m interested in **Java Backend / Spring Boot opportunities, software development, and collaborative projects**.
+I enjoy explaining programming concepts through simple examples and real-world projects.
 
-⭐ Feel free to explore my repositories and connect with me on GitHub.
+**Teaching areas:**
+
+- Java & Object-Oriented Programming
+- Python Programming
+- REST API & Backend Fundamentals
+- SQL & Database Concepts
+- Problem Solving & Data Structures
+
+---
+
+## 📌 What I'm Currently Working On
+
+- Building stronger **Spring Boot REST APIs**
+- Deepening **Spring Security, JWT & OAuth 2.0** knowledge
+- Learning **Microservices & System Design**
+- Developing skills in **Python, Data & AI/ML**
+- Improving production-quality coding and documentation
+
+---
+
+## 🤝 Connect
+
+- GitHub: [@rahulkryadav007](https://github.com/rahulkryadav007)
+
+I'm open to **Java Backend / Spring Boot opportunities, software projects, and collaborative development**.
+
+---
+
+⭐ If you find a project useful, feel free to star the repository.
