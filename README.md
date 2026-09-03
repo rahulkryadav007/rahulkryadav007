@@ -1,45 +1,43 @@
 # Hi, I'm Rahul Kumar Yadav 👋
 
-### Java Backend Developer | Spring Boot | REST APIs | Python
+### Java Backend Developer | Spring Boot | REST APIs | Python | IT Trainer
 
-I build backend applications and REST APIs with **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy turning real-world requirements into clean, maintainable backend systems.
+I build backend applications and REST APIs using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy turning practical requirements into clean, maintainable software.
 
-I also work as an **IT Trainer**, where I teach programming fundamentals, Java, Python, and practical software development.
+I also work as an **IT Trainer**, teaching Java, Python, programming fundamentals, SQL, and project-based development.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Focused on **Java Backend Development & Spring Boot**
-- 🔐 Building APIs with **Spring Security & JWT**
+- 🔐 Learning and building with **Spring Security, JWT & API security**
 - 🗄️ Working with **MySQL, PostgreSQL & SQL**
-- 🐍 Expanding into **Python, Data & AI/ML**
-- 🧩 Interested in **system design, clean architecture & problem solving**
-- 👨‍🏫 IT Trainer focused on practical, project-based learning
+- 🐍 Actively developing skills in **Python, Data & AI/ML**
+- 🧩 Interested in **DSA, clean architecture, system design & problem solving**
+- 👨‍🏫 IT Trainer focused on simple explanations and hands-on projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+**Languages**  
+`Java` `Python` `SQL` `JavaScript`
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC` `Servlets` `JSP`
+**Backend**  
+`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC` `Servlets` `JSP`
 
-### Database
+**Database**  
+`MySQL` `PostgreSQL`
 
-`MySQL` `PostgreSQL` `SQL`
-
-### Frontend
-
+**Frontend**  
 `HTML` `CSS` `JavaScript` `React`
 
-### Tools
-
+**Tools**  
 `Git` `GitHub` `Maven` `Postman` `Apache Tomcat`
 
-### Learning
-
-`Python` `Data Analysis` `AI/ML` `System Design`
+**Currently Learning**  
+`Advanced Python` `Data Analysis` `AI/ML` `System Design` `Microservices`
 
 ---
 
@@ -47,79 +45,80 @@ I also work as an **IT Trainer**, where I teach programming fundamentals, Java, 
 
 ### 🎯 [Online Quiz System](https://github.com/rahulkryadav007/OnlineQuizSystem)
 
-A secure Spring Boot REST API with **JWT authentication, Spring Security, role-based authorization, quiz sessions, automatic scoring, result history, DTOs, validation, and global exception handling**.
+A Spring Boot application for an online quiz workflow, covering authentication/authorization, quiz management, scoring, results, validation, DTOs, and exception handling.
 
 **Java · Spring Boot · Spring Security · JWT · JPA · MySQL · REST API**
 
 ### 🏍️ [Bike Rent API](https://github.com/rahulkryadav007/BikeRentApi)
 
-REST API for managing a bike rental service with CRUD operations, rental status tracking, layered architecture, and MySQL persistence.
+REST API for managing a bike rental service with CRUD operations, rental workflows, layered architecture, and database persistence.
 
 **Java · Spring Boot · JPA/Hibernate · MySQL · REST API**
 
 ### 📚 [Library Management API](https://github.com/rahulkryadav007/Library-Management-API)
 
-Backend REST API for managing library resources using a structured Spring Boot architecture and relational database persistence.
+Backend REST API for managing library resources using Spring Boot, JPA/Hibernate, and relational database concepts.
 
 **Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
 
 ### 💰 [Expense Tracker](https://github.com/rahulkryadav007/ExpenseTracker)
 
-Spring Boot REST API for managing daily expenses with CRUD operations and persistent MySQL storage.
+Spring Boot REST API for managing personal expenses with CRUD operations and persistent database storage.
 
 **Java · Spring Boot · JPA · MySQL · REST API**
 
 ### 🎓 [Learning Management System](https://github.com/rahulkryadav007/Learning-Management-System)
 
-A larger Java application focused on learning-management workflows and practical backend development.
+A larger Java application demonstrating practical application development and learning-management workflows.
 
----
-
-## 🔐 Backend Engineering Focus
-
-```text
-REST API Design       ████████████████████
-Spring Boot            ████████████████████
-Spring Security / JWT  ██████████████████░░
-JPA / Hibernate        ██████████████████░░
-MySQL / SQL            ██████████████████░░
-Python                 ███████████████░░░░░
-AI / ML                ████████████░░░░░░░
-System Design          ███████████░░░░░░░░
-```
+**Java · Web Development · Database**
 
 ---
 
 ## 👨‍🏫 IT Trainer
 
-I enjoy explaining programming concepts through simple examples and real-world projects.
+I enjoy making technical concepts easy to understand through **real-world examples, live coding, and project-based learning**.
 
 **Teaching areas:**
 
 - Java & Object-Oriented Programming
 - Python Programming
-- REST API & Backend Fundamentals
+- Spring Boot & REST API Fundamentals
 - SQL & Database Concepts
-- Problem Solving & Data Structures
+- JDBC
+- DSA & Problem Solving
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📈 Current Focus
 
-- Building stronger **Spring Boot REST APIs**
-- Deepening **Spring Security, JWT & OAuth 2.0** knowledge
-- Learning **Microservices & System Design**
-- Developing skills in **Python, Data & AI/ML**
-- Improving production-quality coding and documentation
+```text
+Java Backend          ████████████████████
+Spring Boot           ████████████████████
+REST APIs             ████████████████████
+SQL / MySQL           ██████████████████░░
+Spring Security       ████████████████░░░░
+Python                ████████████████░░░░
+AI / ML               ████████████░░░░░░░░
+System Design         ██████████░░░░░░░░░░
+```
 
 ---
 
-## 🤝 Connect
+## 🎯 What I'm Working Towards
+
+- Building **production-quality Spring Boot applications**
+- Strengthening **Spring Security, JWT & OAuth 2.0**
+- Learning **Microservices and System Design**
+- Growing from Python fundamentals into **Data & AI/ML**
+- Writing cleaner code with better **testing, documentation, and Git practices**
+
+---
+
+## 🤝 Let's Connect
 
 - GitHub: [@rahulkryadav007](https://github.com/rahulkryadav007)
 
-I'm open to **Java Backend / Spring Boot opportunities, software projects, and collaborative development**.
+Open to **Java Backend / Spring Boot opportunities, software projects, and technical collaborations**.
 
----
-
-⭐ If you find a project useful, feel free to star the repository.
+⭐ If you find something useful, feel free to star the repository.
