@@ -1,21 +1,36 @@
 # Hi, I'm Rahul Kumar Yadav 👋
 
-### Java Backend Developer | Spring Boot | REST APIs | Python | IT Trainer
+### Software Developer | Java & Spring Boot | DSA | Technical Trainer
 
-I build backend applications and REST APIs using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy turning practical requirements into clean, maintainable software.
+I build backend applications and REST APIs using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy solving programming problems, building practical software, and turning ideas into maintainable applications.
 
-I also work as an **IT Trainer**, teaching Java, Python, programming fundamentals, SQL, and project-based development.
+Alongside software development, I work as a **Technical Trainer**, helping students and freshers learn Java, Python, DSA, OOP, SQL, and project development through practical coding and real-world examples.
 
 ---
 
-## 🚀 About Me
+## 💻 Software Development
 
-- 💻 Focused on **Java Backend Development & Spring Boot**
-- 🔐 Learning and building with **Spring Security, JWT & API security**
-- 🗄️ Working with **MySQL, PostgreSQL & SQL**
-- 🐍 Actively developing skills in **Python, Data & AI/ML**
-- 🧩 Interested in **DSA, clean architecture, system design & problem solving**
-- 👨‍🏫 IT Trainer focused on simple explanations and hands-on projects
+- Java backend development with **Spring Boot**
+- REST API design and CRUD application development
+- **Spring Data JPA, Hibernate & MySQL**
+- Authentication and API security with **Spring Security & JWT**
+- Object-Oriented Programming and clean coding practices
+- Data Structures & Algorithms and problem solving
+- Git, GitHub, Maven and Postman
+
+## 👨‍🏫 Technical Training
+
+I also teach and mentor students in:
+
+- Java & OOP
+- Data Structures & Algorithms
+- Python Programming
+- SQL & Database Concepts
+- JDBC and backend fundamentals
+- Spring Boot & REST APIs
+- Placement-oriented coding and project development
+
+My training approach is based on **simple explanations, live coding, practical examples, problem solving, and project-based learning**.
 
 ---
 
@@ -25,7 +40,7 @@ I also work as an **IT Trainer**, teaching Java, Python, programming fundamental
 `Java` `Python` `SQL` `JavaScript`
 
 **Backend**  
-`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC` `Servlets` `JSP`
+`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC`
 
 **Database**  
 `MySQL` `PostgreSQL`
@@ -37,15 +52,15 @@ I also work as an **IT Trainer**, teaching Java, Python, programming fundamental
 `Git` `GitHub` `Maven` `Postman` `Apache Tomcat`
 
 **Currently Learning**  
-`Advanced Python` `Data Analysis` `AI/ML` `System Design` `Microservices`
+`Advanced DSA` `System Design` `Microservices` `Python Data Analysis` `AI/ML`
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### 🎯 [Online Quiz System](https://github.com/rahulkryadav007/OnlineQuizSystem)
 
-A Spring Boot application for an online quiz workflow, covering authentication/authorization, quiz management, scoring, results, validation, DTOs, and exception handling.
+A Spring Boot application for online quiz management with authentication, authorization, quiz management, scoring, results, validation, DTOs, and exception handling.
 
 **Java · Spring Boot · Spring Security · JWT · JPA · MySQL · REST API**
 
@@ -75,43 +90,40 @@ A larger Java application demonstrating practical application development and le
 
 ---
 
-## 👨‍🏫 IT Trainer
+## 📚 Learning & Teaching Repositories
 
-I enjoy making technical concepts easy to understand through **real-world examples, live coding, and project-based learning**.
-
-**Teaching areas:**
-
-- Java & Object-Oriented Programming
-- Python Programming
-- Spring Boot & REST API Fundamentals
-- SQL & Database Concepts
-- JDBC
-- DSA & Problem Solving
+- [Java-Learning](https://github.com/rahulkryadav007/Java-Learning) — Java concepts and practice
+- [JavaPractice](https://github.com/rahulkryadav007/JavaPractice) — Java problem solving
+- [JDBC-Learning](https://github.com/rahulkryadav007/JDBC-Learning) — JDBC practice and database connectivity
+- [Postman-API-Learning](https://github.com/rahulkryadav007/Postman-API-Learning) — API testing and practice
+- [PythonLearning](https://github.com/rahulkryadav007/PythonLearning) — Python programming practice
+- [NumPy-Pandas-Tutorials](https://github.com/rahulkryadav007/NumPy-Pandas-Tutorials) — NumPy and Pandas learning resources
 
 ---
 
-## 📈 Current Focus
+## 🎯 Current Focus
 
-```text
-Java Backend          ████████████████████
-Spring Boot           ████████████████████
-REST APIs             ████████████████████
-SQL / MySQL           ██████████████████░░
-Spring Security       ████████████████░░░░
-Python                ████████████████░░░░
-AI / ML               ████████████░░░░░░░░
-System Design         ██████████░░░░░░░░░░
-```
+**Software Development**
+
+`Java` → `Spring Boot` → `REST APIs` → `Security` → `Microservices` → `System Design`
+
+**Problem Solving**
+
+`Arrays` → `Hashing` → `Two Pointers` → `Sliding Window` → `Linked List` → `Stack & Queue` → `Trees` → `Graphs`
+
+**Technical Training**
+
+Helping students and freshers build strong programming fundamentals, solve DSA problems, develop projects, and prepare for technical interviews.
 
 ---
 
-## 🎯 What I'm Working Towards
+## 📈 What I'm Building Towards
 
-- Building **production-quality Spring Boot applications**
-- Strengthening **Spring Security, JWT & OAuth 2.0**
-- Learning **Microservices and System Design**
-- Growing from Python fundamentals into **Data & AI/ML**
-- Writing cleaner code with better **testing, documentation, and Git practices**
+- Production-quality **Java Spring Boot applications**
+- Stronger **DSA and problem-solving skills**
+- **Microservices and System Design** knowledge
+- Better software engineering practices including **testing, documentation, Git, and clean architecture**
+- Practical learning resources for students and aspiring developers
 
 ---
 
@@ -119,6 +131,6 @@ System Design         ██████████░░░░░░░░░�
 
 - GitHub: [@rahulkryadav007](https://github.com/rahulkryadav007)
 
-Open to **Java Backend / Spring Boot opportunities, software projects, and technical collaborations**.
+Open to **Software Developer / Java Backend opportunities, Technical Trainer roles, software projects, and technical collaborations**.
 
-⭐ If you find something useful, feel free to star the repository.
+⭐ Thanks for visiting my profile!
