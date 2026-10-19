@@ -1,136 +1,69 @@
 # Hi, I'm Rahul Kumar Yadav 👋
 
-### Software Developer | Java & Spring Boot | DSA | Technical Trainer
+### Software Developer | Java & Spring Boot | Currently Learning Python
 
-I build backend applications and REST APIs using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. I enjoy solving programming problems, building practical software, and turning ideas into maintainable applications.
+I'm a Software Developer focused on **Java and Backend Development**. I enjoy building practical applications, designing REST APIs, solving DSA problems, and continuously improving my coding skills.
 
-Alongside software development, I work as a **Technical Trainer**, helping students and freshers learn Java, Python, DSA, OOP, SQL, and project development through practical coding and real-world examples.
-
----
-
-## 💻 Software Development
-
-- Java backend development with **Spring Boot**
-- REST API design and CRUD application development
-- **Spring Data JPA, Hibernate & MySQL**
-- Authentication and API security with **Spring Security & JWT**
-- Object-Oriented Programming and clean coding practices
-- Data Structures & Algorithms and problem solving
-- Git, GitHub, Maven and Postman
-
-## 👨‍🏫 Technical Training
-
-I also teach and mentor students in:
-
-- Java & OOP
-- Data Structures & Algorithms
-- Python Programming
-- SQL & Database Concepts
-- JDBC and backend fundamentals
-- Spring Boot & REST APIs
-- Placement-oriented coding and project development
-
-My training approach is based on **simple explanations, live coding, practical examples, problem solving, and project-based learning**.
+Java is my primary programming language, and I'm currently learning **Python** to expand my programming toolkit and explore more ways to build useful software.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-**Languages**  
-`Java` `Python` `SQL` `JavaScript`
+- **Primary Language:** Java
+- **Backend Development:** Spring Boot, Spring Data JPA, Hibernate, REST APIs, JDBC
+- **Database:** MySQL
+- **Core Concepts:** OOP, Collections, Exception Handling, Data Structures & Algorithms
+- **Tools:** Git, GitHub, Maven, Postman
+- **Currently Learning:** Python fundamentals and writing clean, maintainable Python code
 
-**Backend**  
-`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT` `JDBC`
+## 🚀 Projects
 
-**Database**  
-`MySQL` `PostgreSQL`
+### [Online Quiz System](https://github.com/rahulkryadav007/OnlineQuizSystem)
+A Spring Boot application for online quiz management, including quiz workflows, scoring, validation, and database persistence.
 
-**Frontend**  
-`HTML` `CSS` `JavaScript` `React`
+**Java · Spring Boot · Spring Data JPA · MySQL · REST APIs**
 
-**Tools**  
-`Git` `GitHub` `Maven` `Postman` `Apache Tomcat`
+### [Bike Rent API](https://github.com/rahulkryadav007/BikeRentApi)
+A backend REST API for managing a bike rental service with CRUD operations and database persistence.
 
-**Currently Learning**  
-`Advanced DSA` `System Design` `Microservices` `Python Data Analysis` `AI/ML`
+**Java · Spring Boot · JPA/Hibernate · MySQL**
 
----
+### [Library Management API](https://github.com/rahulkryadav007/Library-Management-API)
+A backend API for managing library resources using Spring Boot and relational database concepts.
 
-## 🚀 Featured Projects
+**Java · Spring Boot · Spring Data JPA · Hibernate**
 
-### 🎯 [Online Quiz System](https://github.com/rahulkryadav007/OnlineQuizSystem)
+### [Expense Tracker](https://github.com/rahulkryadav007/ExpenseTracker)
+A Spring Boot REST API for managing personal expenses with CRUD operations and persistent storage.
 
-A Spring Boot application for online quiz management with authentication, authorization, quiz management, scoring, results, validation, DTOs, and exception handling.
+**Java · Spring Boot · JPA · MySQL**
 
-**Java · Spring Boot · Spring Security · JWT · JPA · MySQL · REST API**
+### [Learning Management System](https://github.com/rahulkryadav007/Learning-Management-System)
+A project focused on application development and learning-management workflows.
 
-### 🏍️ [Bike Rent API](https://github.com/rahulkryadav007/BikeRentApi)
-
-REST API for managing a bike rental service with CRUD operations, rental workflows, layered architecture, and database persistence.
-
-**Java · Spring Boot · JPA/Hibernate · MySQL · REST API**
-
-### 📚 [Library Management API](https://github.com/rahulkryadav007/Library-Management-API)
-
-Backend REST API for managing library resources using Spring Boot, JPA/Hibernate, and relational database concepts.
-
-**Java · Spring Boot · Spring Data JPA · Hibernate · MySQL**
-
-### 💰 [Expense Tracker](https://github.com/rahulkryadav007/ExpenseTracker)
-
-Spring Boot REST API for managing personal expenses with CRUD operations and persistent database storage.
-
-**Java · Spring Boot · JPA · MySQL · REST API**
-
-### 🎓 [Learning Management System](https://github.com/rahulkryadav007/Learning-Management-System)
-
-A larger Java application demonstrating practical application development and learning-management workflows.
-
-**Java · Web Development · Database**
-
----
-
-## 📚 Learning & Teaching Repositories
+## 📚 Learning Repositories
 
 - [Java-Learning](https://github.com/rahulkryadav007/Java-Learning) — Java concepts and practice
-- [JavaPractice](https://github.com/rahulkryadav007/JavaPractice) — Java problem solving
-- [JDBC-Learning](https://github.com/rahulkryadav007/JDBC-Learning) — JDBC practice and database connectivity
-- [Postman-API-Learning](https://github.com/rahulkryadav007/Postman-API-Learning) — API testing and practice
-- [PythonLearning](https://github.com/rahulkryadav007/PythonLearning) — Python programming practice
+- [JavaPractice](https://github.com/rahulkryadav007/JavaPractice) — Java coding practice
+- [JDBC-Learning](https://github.com/rahulkryadav007/JDBC-Learning) — JDBC and database connectivity
+- [PythonLearning](https://github.com/rahulkryadav007/PythonLearning) — Python learning and practice
 - [NumPy-Pandas-Tutorials](https://github.com/rahulkryadav007/NumPy-Pandas-Tutorials) — NumPy and Pandas learning resources
-
----
 
 ## 🎯 Current Focus
 
-**Software Development**
-
-`Java` → `Spring Boot` → `REST APIs` → `Security` → `Microservices` → `System Design`
-
-**Problem Solving**
-
-`Arrays` → `Hashing` → `Two Pointers` → `Sliding Window` → `Linked List` → `Stack & Queue` → `Trees` → `Graphs`
-
-**Technical Training**
-
-Helping students and freshers build strong programming fundamentals, solve DSA problems, develop projects, and prepare for technical interviews.
-
----
-
-## 📈 What I'm Building Towards
-
-- Production-quality **Java Spring Boot applications**
-- Stronger **DSA and problem-solving skills**
-- **Microservices and System Design** knowledge
-- Better software engineering practices including **testing, documentation, Git, and clean architecture**
-- Practical learning resources for students and aspiring developers
-
----
+- Building backend applications with Java and Spring Boot
+- Practicing Data Structures & Algorithms through coding problems
+- Learning Python step by step
+- Improving code quality, debugging, and software development practices
+- Building projects that solve practical problems
 
 ## 🤝 Let's Connect
 
-- GitHub: [@rahulkryadav007](https://github.com/rahulkryadav007)
+- **GitHub:** [@rahulkryadav007](https://github.com/rahulkryadav007)
 
-Open to **Software Developer / Java Backend opportunities, Technical Trainer roles, software projects, and technical collaborations**.
+I'm interested in **Java Backend Developer / Software Developer opportunities**, practical projects, and collaborations.
 
-⭐ Thanks for visiting my profile!
+---
+
+*Learning every day. Building consistently. Growing as a Software Developer.*
